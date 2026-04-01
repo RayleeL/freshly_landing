@@ -1157,9 +1157,6 @@ const Footer = () => {
               <li><a href="#catalog" className="text-gray-500 hover:text-orange-500 transition-colors">Каталог</a></li>
               <li><a href="#about" className="text-gray-500 hover:text-orange-500 transition-colors">О нас</a></li>
               <li><a href="#benefits" className="text-gray-500 hover:text-orange-500 transition-colors">Преимущества</a></li>
-              <li><a href="#delivery" className="text-gray-500 hover:text-orange-500 transition-colors">Доставка</a></li>
-              <li><a href="#payment" className="text-gray-500 hover:text-orange-500 transition-colors">Оплата</a></li>
-              <li><a href="#faq" className="text-gray-500 hover:text-orange-500 transition-colors">FAQ</a></li>
               <li><a href="#testimonials" className="text-gray-500 hover:text-orange-500 transition-colors">Отзывы</a></li>
             </ul>
           </div>
@@ -1167,9 +1164,9 @@ const Footer = () => {
           <div>
             <h4 className="font-bold text-gray-900 mb-6 uppercase tracking-wider text-sm">Поддержка</h4>
             <ul className="space-y-4">
-              <li><a href="#" className="text-gray-500 hover:text-orange-500 transition-colors">Доставка</a></li>
-              <li><a href="#" className="text-gray-500 hover:text-orange-500 transition-colors">Оплата</a></li>
-              <li><a href="#" className="text-gray-500 hover:text-orange-500 transition-colors">FAQ</a></li>
+              <li><a href="#delivery" className="text-gray-500 hover:text-orange-500 transition-colors">Доставка</a></li>
+              <li><a href="#payment" className="text-gray-500 hover:text-orange-500 transition-colors">Оплата</a></li>
+              <li><a href="#faq" className="text-gray-500 hover:text-orange-500 transition-colors">FAQ</a></li>
               <li><a href="#" className="text-gray-500 hover:text-orange-500 transition-colors">Политика конфиденциальности</a></li>
             </ul>
           </div>
